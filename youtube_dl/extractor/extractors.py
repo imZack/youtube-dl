@@ -780,6 +780,7 @@ from .screenwavemedia import ScreenwaveMediaIE, TeamFourIE
 from .seeker import SeekerIE
 from .senateisvp import SenateISVPIE
 from .sendtonews import SendtoNewsIE
+from .sendvid import SendvidIE
 from .servingsys import ServingSysIE
 from .sexu import SexuIE
 from .shahid import ShahidIE
